@@ -1,0 +1,17 @@
+AI tool used: GitHub Copilot
+
+Prompts used:
+- In index.html, add a description and navigation links to tutors.html and request-form.html.
+- In tutors.html, A table with a caption, table header, and table body with 2 columns
+- Create css/styles.css and link it to every HTML page using Bootstrap 5.3, including the following:
+    A Bootstrap .container for the main page content
+    A responsive Bootstrap grid on at least one page
+    Bootstrap form classes, including .form-label, .form-control, and .btn
+    Custom CSS for page typography, spacing, colors, or other repeated design choices
+    A responsive layout that remains readable on both wide and narrow screens
+
+How AI helped:
+The main thing the AI helped me with was setting up the entire CSS styling as I didn't know where to start with that, and it helped me with the skeleton of some of the other pages.
+
+Suggestion tested or revised:
+The main things I revised that AI did was any generated text on the webpage and any unnecessay elements (added a subheader above the title)
