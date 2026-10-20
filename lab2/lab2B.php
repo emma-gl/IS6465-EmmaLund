@@ -2,7 +2,7 @@
 
 // Lab 2B: PHP Functions and Basic Objects
 
-echo '<h1>Lab 2B: Functions and Objects</h1>';
+echo '<h1>Lab 2B: Functions</h1>';
 
 // 1. Function with Parameters and Return Value
 echo '<h2>1. Function with Parameters and Return Value</h2>';
